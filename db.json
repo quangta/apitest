@@ -1,0 +1,74 @@
+{
+  "hoinghi": [
+    {
+      "tenhoinghi":"Hội nghị 1",
+      "thoigian":"24/01/2016",
+      "session":[
+            {
+              "id":1,
+              "chuyende":"Chuyên đề (nội dung khóa học)1",
+              "gia":"200.000Đ",
+              "giamgia":'5%',
+              "trangthaimua":true,
+              'link_anh':''
+              
+            },
+            {
+              "id":2,
+              "chuyende":"Chuyên đề (nội dung khóa học)2",
+              "gia":"300.000Đ",
+              "giamgia":'15%', 
+              "trangthaimua":true,
+              'link_anh':''
+              
+            },{
+              "id":3,
+              "chuyende":"Chuyên đề (nội dung khóa học)3",
+              "gia":"200.000Đ",
+              "giamgia":'35%'
+              , 
+              "trangthaimua":true,
+              'link_anh':''
+              
+            }
+            
+        ]
+    },
+   {
+      "tenhoinghi":"Hội nghị 1",
+      "thoigian":"24/01/2016",
+      "session":[
+            {
+              "id":1,
+              "chuyende":"Chuyên đề (nội dung khóa học)1",
+              "gia":"200.000Đ",
+              "giamgia":'5%', 
+              "trangthaimua":true,
+              'link_anh':''
+              
+            },
+            {
+              "id":2,
+              "chuyende":"Chuyên đề (nội dung khóa học)2",
+              "gia":"300.000Đ",
+              "giamgia":'15%', 
+              "trangthaimua":true,
+              'link_anh':''
+              
+            },{
+              "id":3,
+              "chuyende":"Chuyên đề (nội dung khóa học)3",
+              "gia":"200.000Đ",
+              "giamgia":'35%', 
+              "trangthaimua":true,
+              'link_anh':''
+              
+            }
+            
+        ]
+    }
+
+   
+  ]
+  
+}
